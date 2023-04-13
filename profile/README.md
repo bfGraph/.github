@@ -1,1 +1,1 @@
-![But First Graphs! Banner](images/BFG%20Banner.png)
+![But First Graphs! Banner](https://github.com/bfGraph/.github/blob/main/profile/images/BFG%20Banner.png?raw=true)
